@@ -1,6 +1,4 @@
-<video loop autoplay>
-<source src="./Video_elclientenotienelarazon.com">
-</video>
+<img src="https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_960_720.jpg" alt="Imágen del Planeta">
 <h1 align="center">Hi 👋, I'm Adrián Llorián</h1>
 <h3 align="center">I am passionate about the internet. I learn every day to be a better web developer. I like to help this world communicate faster and safer.</h3>
 
