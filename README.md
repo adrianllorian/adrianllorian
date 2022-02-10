@@ -1,17 +1,18 @@
 <img src="https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_960_720.jpg" alt="Imágen del Planeta">
 <h1 align="center">Hi 👋, I'm Adrián Llorián</h1>
 <h3 align="center">I am passionate about the internet. I learn every day to be a better web developer. I like to help this world communicate faster and safer.</h3>
-
+<!--
 - 🌱 I’m currently learning about Wordpress development.
 - 👨‍💻 My project are available at [https://elclientenotienelarazon.com](https://elclientenotienelarazon.com), [https://rosasdecolores.com](https://rosasdecolores.com), [https://halkysl.com](https://halkysl.com), [https://adrianllorian.github.io/gestion-asociacion/](https://adrianllorian.github.io/gestion-asociacion/),[https://adrianllorian.github.io/ScarpeoWeb/](https://adrianllorian.github.io/ScarpeoWeb/),
+-->
 <ul>
   <li>🌱 I’m currently learning about Wordpress development.</li>
   <li>👨‍💻 My project are available at
     <ul>
-      <li> <a href="https://elclientenotienelarazon.com"> El cliente no tiene la razon </a></li>
-      <li> [https://rosasdecolores.com](https://rosasdecolores.com) </li>
-      <li> [https://adrianllorian.github.io/gestion-asociacion/](https://adrianllorian.github.io/gestion-asociacion/) </li>
-      <li> [https://adrianllorian.github.io/ScarpeoWeb/](https://adrianllorian.github.io/ScarpeoWeb/) </li>
+      <li> <a href="https://elclientenotienelarazon.com">https://elclientenotienelarazon.com</a></li>
+      <li> <a href="https://rosasdecolores.com">https://rosasdecolores.com</a></li>
+      <li> <a href="https://adrianllorian.github.io/gestion-asociacion/">https://adrianllorian.github.io/gestion-asociacion/</a></li>
+      <li> <a href="https://adrianllorian.github.io/ScarpeoWeb/">https://adrianllorian.github.io/ScarpeoWeb/</a></li>
     </ul>
   </li>
 </ul>
