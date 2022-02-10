@@ -12,7 +12,7 @@
       <li> <a href="https://elclientenotienelarazon.com">https://elclientenotienelarazon.com</a></li>
       <li> <a href="https://rosasdecolores.com">https://rosasdecolores.com</a></li>
       <li> <a href="https://adrianllorian.github.io/gestion-asociacion/">https://adrianllorian.github.io/gestion-asociacion/</a></li>
-      <li> <a href="https://adrianllorian.github.io/ScarpeoWeb/">https://adrianllorian.github.io/ScarpeoWeb/</a></li>
+      <li> <a href="https://adrianllorian.github.io/scarpeo-web/">https://adrianllorian.github.io/scarpeo-web/</a></li>
     </ul>
   </li>
 </ul>
