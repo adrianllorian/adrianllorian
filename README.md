@@ -9,10 +9,11 @@
   <li>🌱 I’m currently learning about Wordpress development.</li>
   <li>👨‍💻 My project are available at
     <ul>
+      <li> <a href="https://adrianllorian.github.io/miPortafolio/">Mi Portafolio</a></li>
       <li> <a href="https://elclientenotienelarazon.com">https://elclientenotienelarazon.com</a></li>
       <li> <a href="https://rosasdecolores.com">https://rosasdecolores.com</a></li>
-      <li> <a href="https://adrianllorian.github.io/gestion-asociacion/">https://adrianllorian.github.io/gestion-asociacion/</a></li>
-      <li> <a href="https://adrianllorian.github.io/scarpeo-web/">https://adrianllorian.github.io/scarpeo-web/</a></li>
+      <li> <a href="https://adrianllorian.github.io/gestion-asociacion/">Gestion Asociación</a></li>
+      <li> <a href="https://adrianllorian.github.io/scarpeo-web/">Scarpeo Web</a></li>
     </ul>
   </li>
 </ul>
